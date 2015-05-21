@@ -1,0 +1,35 @@
+<data>
+    <count>6</count>
+    <areas>
+    	<item>
+    		<name>floor</name>
+    		<position-x>22.39</position-x>
+    		<position-y>-2.27</position-y>
+    	</item>
+    	<item>
+    		<name>centerWall</name>
+    		<position-x>22.39</position-x>
+    		<position-y>-2.27</position-y>
+    	</item>
+    	<item>
+    		<name>sideWall</name>
+    		<position-x>22.39</position-x>
+    		<position-y>-2.27</position-y>
+    	</item>
+    	<item>
+    		<name>cabinetA</name>
+    		<position-x>22.39</position-x>
+    		<position-y>-2.27</position-y>
+    	</item>
+    	<item>
+    		<name>cabinetB</name>
+    		<position-x>22.39</position-x>
+    		<position-y>-2.27</position-y>
+    	</item>
+    	<item>
+    		<name>cabinetC</name>
+    		<position-x>22.39</position-x>
+    		<position-y>-2.27</position-y>
+    	</item>
+    </areas>
+</data>
